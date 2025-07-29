@@ -42,7 +42,27 @@ I design, build, and deploy data-driven solutions that blend business insight, A
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects across industries
+
+### [🎯 Personalized Recommendation Systems](#)
+
+### [📢 Advertising Analytics & Optimization](#)  
+
+### [👥 Customer Segmentation & Churn Prediction](#)  
+
+### [💰 Dynamic Pricing & Revenue Management](#)  
+
+### [🏦 Finance, Credit Risk & Fraud Detection](#)  
+
+### [📝 NLP & Large Language Models (LLM)](#)  
+
+### [🏥 Healthcare Analytics & Predictive Diagnostics](#)  
+
+### [🚚 Supply Chain & Inventory Optimization](#)  
+
+### [📡 Sensor & IoT Data Analytics](#)  
+
+### [📈 Digital Marketing Attribution & ROI Analysis](#)  
 
 ---
 
