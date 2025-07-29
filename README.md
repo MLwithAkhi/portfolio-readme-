@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhila
 
-**Senior Data Scientist | Machine Learning Engineer | Deep Learning | NLP | Generative AI Specialist**
+**Senior Data Scientist | Machine Learning Engineer | Deep Learning | NLP**
 
 I design, build, and deploy data-driven solutions that blend business insight, AI innovation, and real-world impact. With a strong foundation in machine learning and modern cloud architecture, I specialize in operationalizing AI—from classical modeling to cutting-edge GenAI pipelines.
 
