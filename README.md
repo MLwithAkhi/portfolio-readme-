@@ -1,4 +1,3 @@
-****#Portfolio**
 # 👋 Hi, I'm Akhila
 
 **Senior Data Scientist | Machine Learning Engineer | Deep Learning | NLP | Generative AI Specialist**
